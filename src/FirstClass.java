@@ -1,6 +1,6 @@
 public class FirstClass {
     public static void main(String[] args) {
-        int a=10, b=5;
+        int a=12, b=5;
         int c= a+b;
         int d= a-b;
         int e= a*b;
