@@ -1,3 +1,4 @@
+// 2. Learning to take Static and Dynamic Input
 import java.util.*;
 public class Static_And_Dynamic_Input {
     public static void main(String[] args) {
