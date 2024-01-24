@@ -1,3 +1,4 @@
+// 1. Creating my first class and performing basic arithmetic operations on two variables
 public class FirstClass {
     public static void main(String[] args) {
         int a=12, b=5;
