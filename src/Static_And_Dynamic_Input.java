@@ -1,4 +1,4 @@
-// 2. Learning to take Dynamic Input from user and printing both dynamic and static input to com
+// 2. Learning to take Dynamic Input from user and printing both dynamic and static input to compare
 import java.util.*;
 public class Static_And_Dynamic_Input {
     public static void main(String[] args) {
