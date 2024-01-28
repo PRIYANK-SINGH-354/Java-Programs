@@ -1,4 +1,4 @@
-// 2. Learning to take Dynamic Input from user and printing both dynamic and static input to compa
+// 2. Learning to take Dynamic Input from user and printing both dynamic and static input to comp
 import java.util.*;
 public class Static_And_Dynamic_Input {
     public static void main(String[] args) {
