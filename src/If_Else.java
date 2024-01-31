@@ -1,4 +1,4 @@
-// 4. Learning about conditional statements in Jav
+// 4. Learning about conditional statements in Ja
 import java.util.*;
 public class If_Else {
     public static void main(String[] args) {
