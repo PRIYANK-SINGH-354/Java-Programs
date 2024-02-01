@@ -1,4 +1,4 @@
-// 3. Learning about basic data types in Jav
+// 3. Learning about basic data types in Ja
 public class DataTypes {
     public static void main(String[] args) {
         int integervalue = 10;
